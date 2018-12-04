@@ -1,0 +1,15 @@
+{
+  Stores:[
+  {
+	"id":"bigorange-coquitlam",
+	"name":"Big Orange Coquitlam Mall Store",
+	"address":"2929 Barnet Hwy #2509, Coquitlam, BC V3B 0B9",
+	"city":"Coquitlam",
+	"province":"BC",
+	"country":"Canada",
+	"phone":"778-317-5578",
+	"hours":[]
+  }
+  
+  ]
+}
