@@ -1,0 +1,374 @@
+{
+"categories" : {
+    "big-orange":{
+      "bo-milk-bubble-tea" : {
+        "name" : "Milk Bubble Tea",
+        "thumb" : "assets/imgs/bigorange/categories/bo_milk_bubble_tea.png"
+      },
+      "bo-fruit-bubble-tea" : {
+        "name" : "Fruit Bubble Tea",
+        "thumb" : "assets/imgs/bigorange/categories/bo_fruit_bubble_tea.png"
+      },
+      "bo-smooth-bubble-tea" : {
+        "name" : "Smooth Bubble Tea",
+        "thumb" : "assets/imgs/bigorange/categories/bo_smooth_bubble_tea.png"
+      },
+      "bo-fresh-fruit-smoothies" : {
+        "name" : "Fresh Fruit Smoothies",
+        "thumb" : "assets/imgs/bigorange/categories/bo_fresh_fruit_smoothie.png"
+      },
+      "bo-fresh-fruit-slush" : {
+        "name" : "Fresh Fruit Slush",
+        "thumb" : "assets/imgs/bigorange/categories/bo_fresh_fruit_slush.png"
+       }
+    }
+  },
+  "products" : {
+    "big-orange":{
+      "bo-fruit-bubble-tea-peach" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png","assets/imgs/bigorange/products/big-orange-peach-bubble-tea-feature.jpg"],
+        "name" : "Fruit Bubble Tea (Peach)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with peach sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png"
+      },
+      "bo-fruit-bubble-tea-peachlemon" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png" ],
+        "name" : "Fruit Bubble Tea (Peach & Lemon)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with mixd lemon and peach sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png"
+      },
+      "bo-fruit-bubble-tea-lychee" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-lychee.png" ],
+        "name" : "Fruit Bubble Tea (Lychee)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with lychee sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-lychee.png"
+      },
+      "bo-fruit-bubble-tea-passion" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passion.png" ],
+        "name" : "Fruit Bubble Tea (Passion)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with passion sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passion.png"
+      },
+      "bo-fruit-bubble-tea-passionlemon" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passionlemon.png" ],
+        "name" : "Fruit Bubble Tea (Passion & Lemon)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with mixed passion sryup and lemon sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passionlemon.png"
+      },
+      "bo-fruit-bubble-tea-honey" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-honey.png" ],
+        "name" : "Fruit Bubble Tea (Honey)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with honey sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-honey.png"
+      },
+      "bo-fruit-bubble-tea-apple" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-apple.png" ],
+        "name" : "Fruit Bubble Tea (Apple)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with apple sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-apple.png"
+      },
+      "bo-fruit-bubble-tea-lemon" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-lemon.png" ],
+        "name" : "Fruit Bubble Tea (Lemon)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with lemon sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-lemon.png"
+      },
+      "bo-fruit-bubble-tea-honeylemon" : {
+        "category_id" : "bo-fruit-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-honeylemon.png" ],
+        "name" : "Fruit Bubble Tea (Honey & Lemon)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with honey and lemon sryup",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-honeylemon.png"
+      },
+      "bo-milk-bubble-tea-taro" : {
+        "category_id" : "bo-milk-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Milk Bubble Tea (Taro)",
+        "size":["regular"],
+        "price" : [5.49],
+        "short_description" : "Milk bubble tea with taro powder",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png"
+      },
+      "bo-milk-bubble-tea-coconut" : {
+        "category_id" : "bo-milk-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_coconut.png" ],
+        "name" : "Milk Bubble Tea (Coconut)",
+        "size":["regular"],
+        "price" : [5.49],
+        "short_description" : "Milk bubble tea with coconut powder",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_coconut.png"
+      },
+      "bo-milk-bubble-tea-chocolate" : {
+        "category_id" : "bo-milk-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/milk_bubble_tea_chocolate.png" ],
+        "name" : "Milk Bubble Tea (chocolate)",
+        "size":["regular"],
+        "price" : [5.49],
+        "short_description" : "Milk bubble tea with chocolate powder",
+        "thumb" : "assets/imgs/bigorange/products/milk_bubble_tea_chocolate.png"
+      },
+      "bo-milk-bubble-tea-coffee" : {
+        "category_id" : "bo-milk-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/milk_bubble_tea_coffee.png" ],
+        "name" : "Milk Bubble Tea (coffee)",
+        "size":["regular"],
+        "price" : [5.49],
+        "short_description" : "Milk bubble tea with coffee powder",
+        "thumb" : "assets/imgs/bigorange/products/milk_bubble_tea_coffee.png"
+      },
+      "bo-milk-bubble-tea-honey" : {
+        "category_id" : "bo-milk-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_milk_bubble_tea_honey.jpg" ],
+        "name" : "Milk Bubble Tea (honey)",
+        "size":["regular"],
+        "price" : [5.49],
+        "short_description" : "Milk bubble tea with honey",
+        "thumb" : "assets/imgs/bigorange/products/bo_milk_bubble_tea_honey.jpg"
+      },
+      "bo-milk-bubble-tea-honeydew" : {
+        "category_id" : "bo-milk-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_honeydew.png" ],
+        "name" : "Milk Bubble Tea (honeydew)",
+        "size":["regular"],
+        "price" : [5.49],
+        "short_description" : "Milk bubble tea with honeydew powder",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_honeydew.png"
+      },
+      "bo-milk-bubble-tea-jasmine" : {
+        "category_id" : "bo-milk-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_jasmine.png" ],
+        "name" : "Jasmine Green Milk Tea",
+        "size":["regular"],
+        "price" : [5.49],
+        "short_description" : "Jasmine green milk tea",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_jasmine.png"
+      },
+      "bo-milk-black-tea-original" : {
+        "category_id" : "bo-milk-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_black_milktea.png" ],
+        "name" : "Original Milk Black Tea",
+        "size":["regular","small"],
+        "price" : [4.99,3.49],
+        "short_description" : "Original milk black tea",
+        "thumb" : "assets/imgs/bigorange/products/bo_black_milktea.png"
+      },
+      "bo-fresh-fruit-smoothie-kale" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Everlasting Kale smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Kale,Fresh Spinech, Fresh Mango, Fresh Pinapple, Fresh Orange",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-supergreen" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Super Green smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Mango, Fresh Mix Green, Fresh Orange, Fresh Pinapple, Fresh Banana",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-veryberry" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Very Berry smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Strawberry, Fresh Blueberry",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-pinklady" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Pinklady smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Strawberry, Fresh Watermelon",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-pinacolada" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Pina Colada smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Pineapple, Fresh Blueberry",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-rainbow" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Rainbow smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Pineapple, Fresh Mango, Fresh Banana, Fresh Strawberry",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-sunrise" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Tropical Sunrise smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Strawberry, Fresh Mango",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-acai" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Organic Acai smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Acai, Fresh Blueberry, Fresh Banana, Fresh Strawberry",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-orange" : {
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Mighty Orange smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Orange, Fresh Banana, Whey Protein, Multivitamin",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-smoothie-diamondmango" :{
+        "category_id" : "bo-fresh-fruit-smoothies",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
+        "name" : "Diamond Mango smoothie",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smoothie with Fresh Mango, Fresh Banana",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png"
+      },
+      "bo-fresh-fruit-slush-kale" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Everlasting Kale slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Kale,Fresh Spinech, Fresh Mango, Fresh Pinapple, Fresh Orange",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-supergreen" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Super Green slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Mango, Fresh Mix Green, Fresh Orange, Fresh Pinapple, Fresh Banana",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-veryberry" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Very Berry slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Strawberry, Fresh Blueberry",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-pinklady" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Pinklady slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Strawberry, Fresh Watermelon",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-pinacolada" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Pina Colada slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Pineapple, Fresh Blueberry",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-rainbow" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Rainbow slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Pineapple, Fresh Mango, Fresh Banana, Fresh Strawberry",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-sunrise" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Tropical Sunrise slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Strawberry, Fresh Mango",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-acai" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Organic Acai slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Acai, Fresh Blueberry, Fresh Banana, Fresh Strawberry",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-orange" : {
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Mighty Orange slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Orange, Fresh Banana, Whey Protein, Multivitamin",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      },
+      "bo-fresh-fruit-slush-diamondmango" :{
+        "category_id" : "bo-fresh-fruit-slush",
+        "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
+        "name" : "Diamond Mango slush",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Slush with Fresh Mango, Fresh Banana",
+        "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png"
+      }
+    },
+    "big-orange-coquitlam-mall":{
+      "bo-smooth-bubble-tea-bigo" : {
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-apple.png" ],
+        "name" : "Smooth Bubble Tea (Big-O)",
+        "size":["regular","small"],
+        "price" : [5.49,3.99],
+        "short_description" : "Bubble tea with Oreao",
+        "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-apple.png"
+      }
+    }
+  }
+}

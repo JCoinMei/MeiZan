@@ -1,0 +1,76 @@
+{
+ "promotions" : {
+    "big-orange":{
+      "p20180001" : {
+        "thumb" : "assets/imgs/bigorange/promotions/p20180001.jpg",
+        "title" : "get any 2 for only 8.99",
+        "short_description":"Buy any 2 of regular size of Fruit bubble tea-peach, Diamond Mango smoothie,or any milk bubble tea, only pay $8.99",
+        "product_count":3,
+        "p1":{
+            "product_id":"bo-fruit-bubble-tea-peach",
+            "category_id":"",
+            "size":"regular",
+            "option":["green tea"],
+            "minimum":0,
+            "maximum":1
+            },
+        "p2":{
+                "product_id":"",
+                "category_id":"bo-milk-bubble-tea",
+                "size":"regular",
+                "option":["black tea"],
+                "minimum":0,
+                "maximum":1
+        },
+        "p3":{
+                "product_id":"bo-fresh-fruit-smoothie-diamondmango",
+                "category_id":"",
+                "size":"regular",
+                "option":[],
+                "minimum":0,
+                "maximum":1
+            },
+        "cost":8.99,
+        "discount":0,
+        "max_products":2,
+        "valid_date":["2018-11-10","2018-12-31"]
+      },
+      "p20180002" : {
+        "thumb" : "assets/imgs/bigorange/promotions/p20180002.jpg",
+        "title" : "Two small mango smoothies only 2.99",
+        "short_description":"Buy 2 small size diamond mango fresh fruit smoothies, each only 2.99",
+        "product_count":1,
+        "p1":{
+            "product_id":"bo-fresh-fruit-smoothie-diamondmango",
+            "category_id":"",
+            "size":"small",
+            "option":[],
+            "maximum":2,
+            "minimum":2
+            },
+        "cost":5.98,
+        "discount":0,
+        "max_products":1,
+        "valid_date":["2018-11-10","2018-12-31"]
+      },
+      "p20180003" : {
+        "thumb" : "assets/imgs/bigorange/promotions/p20180003.png",
+        "title" : "Morning Special with 10% off",
+        "short_description":"Monday to Thursday (Except holiday) 10% off for any regular size when you order between 9:30AM and 11:30AM",
+        "product_count":1,
+        "p1":{
+            "product_id":"",
+            "category_id":"",
+            "size":"regular",
+            "option":[],
+            "maximum":1,
+            "minimum":1
+            },
+        "cost":0,
+        "discount":0.1,
+        "max_products":0,
+        "valid_date":["2018-11-10","2018-12-31"]
+      }
+    }
+  }
+}

@@ -1,15 +1,28 @@
 {
-  Stores:[
-  {
-	"id":"bigorange-coquitlam",
-	"name":"Big Orange Coquitlam Mall Store",
-	"address":"2929 Barnet Hwy #2509, Coquitlam, BC V3B 0B9",
-	"city":"Coquitlam",
-	"province":"BC",
-	"country":"Canada",
-	"phone":"778-317-5578",
-	"hours":[]
-  }
-  
-  ]
+  "big-orange-coquitlam-mall":{
+        "name" : "Big Orange Coquitlam Mall",
+        "address" : "2929 Barnet Highway, Coquitlam, BC V3B 5R5",
+        "city" : "Coquitlam",
+        "province": "BC",
+        "country" : "Canada",
+        "currency" :"CAD",
+        "phone" : "778-317-5578",
+        "email" : "ericzgqing@gmail.com",
+        "open_hours" : ["10:00AM,7:00PM","10:00AM,7:00PM","10:00AM,9:00PM","10:00AM,9:00PM","10:00AM,9:00PM","9:30AM,7:00PM","11:00AM,6:00PM"],
+        "group_id" : "big-orange",
+        "taxrate": {"GST":0.05}
+      },
+      "big-orange-metrotown":{
+        "name" : "Big Orange Metrotown Store",
+        "address" : "4700 Kingsway, Burnaby, BC V5H 4M12929",
+        "city" : "Burnaby",
+        "province": "BC",
+        "country" : "Canada",
+        "currency" :"CAD",
+        "phone" : "604-438-5779",
+        "email" : "sales@bigorange.ca",
+        "open_hours" : ["10:00AM,7:00PM","10:00AM,7:00PM","10:00AM,9:00PM","10:00AM,9:00PM","10:00AM,9:00PM","9:30AM,7:00PM","11:00AM,6:00PM"],
+        "group_id" : "big-orange",
+        "taxrate": {"GST":0.05}
+      }
 }
