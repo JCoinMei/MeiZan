@@ -1,54 +1,49 @@
 {
-  "Toppings": [
+  "ProductOptions": {
+    "big-orange": {
+       "Toppings":
     {
-      "id":"pearls",
+      "pearls":{
       "name":"Pearls",
 	  "cost":0.5
     },
-    {
-	  "id":"mangochunks",	
+    "mangochunks":{	
       "name":"Mango Chunks",
 	  "cost":0.5
     },
-    {
-	  "id":"grassjelly",
+	"grassjelly":{
       "name":"Grass Jelly",
 	  "cost":0.5
     },
-    {
-	  "id":"pineapplejelly",	
+    "pineapplejelly":{	
       "name":"Pineapple Jelly",
 	  "cost":0.5
     },
-    {
-	  "id":"mangojelly",	
+    "mangojelly":{	
       "name":"Mango Jelly",
 	  "cost":0.5
     },
-    {
-	  "id":"lycheejelly",
+    "lycheejelly":{
       "name":"Lychee Jelly",
 	  "cost":0.5
     },
-    {
-	  "id":"rainbowjelly",
+    "rainbowjelly":{
       "name":"Rainbow Jelly",
 	  "cost":0.5
     },
-    {
-	  "id":"applejelly",
+	"applejelly":{
       "name":"Green Apple Jelly",
 	  "cost":0.5
     },
-    {
-	  "id":"wheyprotien",
+    "wheyprotien":{
       "name":"Whey Protien",
 	  "cost":0.99
     },
-    {
-	  "id":"multivitamin",
+    "multivitamin":{
       "name":"Multivitamin",
 	  "cost":0.99
-    }	
-  ]
+    }
+   }	
+  }
+ }
 }

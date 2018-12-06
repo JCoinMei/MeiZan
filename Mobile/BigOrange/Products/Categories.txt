@@ -1,0 +1,26 @@
+{
+"categories" : {
+    "big-orange":{
+      "bo-milk-bubble-tea" : {
+        "name" : "Milk Bubble Tea",
+        "thumb" : "assets/imgs/bigorange/categories/bo_milk_bubble_tea.png"
+      },
+      "bo-fruit-bubble-tea" : {
+        "name" : "Fruit Bubble Tea",
+        "thumb" : "assets/imgs/bigorange/categories/bo_fruit_bubble_tea.png"
+      },
+      "bo-smooth-bubble-tea" : {
+        "name" : "Smooth Bubble Tea",
+        "thumb" : "assets/imgs/bigorange/categories/bo_smooth_bubble_tea.png"
+      },
+      "bo-fresh-fruit-smoothies" : {
+        "name" : "Fresh Fruit Smoothies",
+        "thumb" : "assets/imgs/bigorange/categories/bo_fresh_fruit_smoothie.png"
+      },
+      "bo-fresh-fruit-slush" : {
+        "name" : "Fresh Fruit Slush",
+        "thumb" : "assets/imgs/bigorange/categories/bo_fresh_fruit_slush.png"
+       }
+    }
+  }
+}
