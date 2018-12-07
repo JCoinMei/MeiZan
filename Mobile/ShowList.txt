@@ -1,6 +1,5 @@
 {
  "Brands":[
 {"id":"BigOrange","name":"Big Orange","logo":"asset/imgs/bigorange/big-orange-logo.png","resource_folder":"https://raw.githubusercontent.com/JCoinMei/MeiZan/master/Mobile/BigOrange/"}
-}
 ]
 }
