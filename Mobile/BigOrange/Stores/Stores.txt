@@ -5,6 +5,7 @@
         "city" : "Coquitlam",
         "province": "BC",
         "country" : "Canada",
+	"latlng":{"lat":49.2795599,"lng":-122.8006361},
         "currency" :"CAD",
         "phone" : "778-317-5578",
         "email" : "ericzgqing@gmail.com",
@@ -12,16 +13,45 @@
         "group_id" : "big-orange",
         "taxrate": {"GST":0.05}
       },
-      "big-orange-metrotown":{
+      "big-orange-burnaby-metrotown":{
         "name" : "Big Orange Metrotown Store",
-        "address" : "4700 Kingsway, Burnaby, BC V5H 4M12929",
+        "address" : "4700 Kingsway, Burnaby, BC V5H 4M1",
         "city" : "Burnaby",
         "province": "BC",
         "country" : "Canada",
+	"latlng":{"lat":49.2274775,"lng":-123.0019887},
         "currency" :"CAD",
         "phone" : "604-438-5779",
         "email" : "sales@bigorange.ca",
-        "open_hours" : ["10:00AM-7:00PM","10:00AM-7:00PM","10:00AM-9:00PM","10:00AM-9:00PM","10:00AM-9:00PM","9:30AM-7:00PM","11:00AM-6:00PM"],
+        "open_hours" : ["10:00AM-9:00PM","10:00AM-9:00PM","10:00AM-9:00PM","10:00AM-9:00PM","10:00AM-9:00PM","10:00AM-9:00PM","11:00AM-7:00PM"],
+        "group_id" : "big-orange",
+        "taxrate": {"GST":0.05}
+      },
+      "big-orange-surrey-citycentral":{
+        "name" : "Big Orange Surrey City Central Store",
+        "address" : "10153 King George Blvd, Surrey, BC V3T 2W1",
+        "city" : "Surrey",
+        "province": "BC",
+        "country" : "Canada",
+	"latlng":{"lat":49.1862382,"lng":-122.8501456},
+        "currency" :"CAD",
+        "phone" : "604-581-1617",
+        "email" : "sales@bigorange.ca",
+        "open_hours" : ["10:00AM-7:00PM","10:00AM-7:00PM","10:00AM-9:00PM","10:00AM-9:00PM","10:00AM-9:00PM","10:00AM-7:00PM","11:00AM-6:00PM"],
+        "group_id" : "big-orange",
+        "taxrate": {"GST":0.05}
+      },
+	"big-orange-vancouver-bentallcentre":{
+        "name" : "Big Orange Vancouver Bentall Centre Mall Store",
+        "address" : "Bentall 5, Bentall Centre Mall, 303-Tower III, 595 Burrard St, Vancouver, BC V7X 1M9",
+        "city" : "Vancouver",
+        "province": "BC",
+        "country" : "Canada",
+	"latlng":{"lat":49.2862071,"lng":-123.1221211},
+        "currency" :"CAD",
+        "phone" : "778-997-3210",
+        "email" : "sales@bigorange.ca",
+        "open_hours" : ["8:00AM-5:00PM","8:00AM-5:00PM","8:00AM-5:00PM","8:00AM-5:00PM","8:00AM-5:00PM","closed","closed"],
         "group_id" : "big-orange",
         "taxrate": {"GST":0.05}
       }
