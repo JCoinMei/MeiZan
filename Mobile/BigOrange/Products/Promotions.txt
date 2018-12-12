@@ -1,6 +1,6 @@
 {
  "Promotions" : {
-    "big-orange":{
+    "BigOrange":{
       "p20180001" : {
         "thumb" : "assets/imgs/bigorange/promotions/p20180001.jpg",
         "title" : "get any 2 for only 8.99",

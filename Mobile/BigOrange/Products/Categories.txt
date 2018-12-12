@@ -1,6 +1,6 @@
 {
 "Categories" : {
-    "big-orange":{
+    "BigOrange":{
       "bo-milk-bubble-tea" : {
         "name" : "Milk Bubble Tea",
         "thumb" : "assets/imgs/bigorange/categories/bo_milk_bubble_tea.png"

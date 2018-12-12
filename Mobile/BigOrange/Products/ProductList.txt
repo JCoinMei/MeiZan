@@ -1,6 +1,6 @@
 {
   "Products" : {
-    "big-orange":{
+    "BigOrange":{
       "bo-fruit-bubble-tea-peach" : {
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png","assets/imgs/bigorange/products/big-orange-peach-bubble-tea-feature.jpg"],

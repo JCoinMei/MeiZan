@@ -1,6 +1,6 @@
 {
   "ProductOptions": {
-    "big-orange": {
+    "BigOrange": {
        "Toppings":
     {
       "pearls":{
