@@ -1,5 +1,5 @@
 {
- "promotions" : {
+ "Promotions" : {
     "big-orange":{
       "p20180001" : {
         "thumb" : "assets/imgs/bigorange/promotions/p20180001.jpg",

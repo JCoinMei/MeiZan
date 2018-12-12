@@ -1,5 +1,5 @@
 {
-  "products" : {
+  "Products" : {
     "big-orange":{
       "bo-fruit-bubble-tea-peach" : {
         "category_id" : "bo-fruit-bubble-tea",

@@ -1,5 +1,5 @@
 {
-"categories" : {
+"Categories" : {
     "big-orange":{
       "bo-milk-bubble-tea" : {
         "name" : "Milk Bubble Tea",
