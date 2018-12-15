@@ -3,6 +3,9 @@
     "BigOrange": {
        "Toppings":
     {
+     "allowchoose":0,
+     options:
+    {
       "pearls":{
       "name":"Pearls",
 	  "cost":0.5
@@ -44,6 +47,7 @@
 	  "cost":0.99
     }
    }	
+   }
   }
  }
 }
