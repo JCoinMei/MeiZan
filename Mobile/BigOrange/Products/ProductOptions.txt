@@ -1,10 +1,12 @@
 {
   "ProductOptions": {
-    "BigOrange": {
-       "Toppings":
+    "Toppings":
     {
+     "name":"Toppings",
      "allowchoose":0,
      options:
+    {
+    "BigOrange":
     {
       "pearls":{
       "name":"Pearls",
