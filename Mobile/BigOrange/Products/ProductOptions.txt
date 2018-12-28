@@ -9,42 +9,52 @@
     "BigOrange":
     {
       "pearls":{
+     "oid":"O1",
       "name":"Pearls",
 	  "cost":0.5
     },
     "mangochunks":{	
+     "oid":"O2",
       "name":"Mango Chunks",
 	  "cost":0.5
     },
 	"grassjelly":{
+     "oid":"O3",
       "name":"Grass Jelly",
 	  "cost":0.5
     },
     "pineapplejelly":{	
+     "oid":"O4",
       "name":"Pineapple Jelly",
 	  "cost":0.5
     },
     "mangojelly":{	
+     "oid":"O5",
       "name":"Mango Jelly",
 	  "cost":0.5
     },
     "lycheejelly":{
+     "oid":"O6",
       "name":"Lychee Jelly",
 	  "cost":0.5
     },
     "rainbowjelly":{
+     "oid":"O7",
       "name":"Rainbow Jelly",
 	  "cost":0.5
     },
 	"applejelly":{
+     "oid":"O8",
       "name":"Green Apple Jelly",
 	  "cost":0.5
     },
     "wheyprotien":{
+     "oid":"O9",
       "name":"Whey Protien",
 	  "cost":0.99
     },
     "multivitamin":{
+     "oid":"O10",
       "name":"Multivitamin",
 	  "cost":0.99
     }

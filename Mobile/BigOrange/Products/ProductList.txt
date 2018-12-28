@@ -2,6 +2,7 @@
   "Products" : {
     "BigOrange":{
       "bo-fruit-bubble-tea-peach" : {
+	"oid":"P1",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png","assets/imgs/bigorange/products/big-orange-peach-bubble-tea-feature.jpg"],
         "name" : "Fruit Bubble Tea (Peach)",
@@ -12,6 +13,7 @@
 	"options":[""]
       },
       "bo-fruit-bubble-tea-peachlemon" : {
+	"oid":"P2",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png" ],
         "name" : "Fruit Bubble Tea (Peach & Lemon)",
@@ -22,6 +24,7 @@
 	"options":[""]
       },
       "bo-fruit-bubble-tea-lychee" : {
+	"oid":"P3",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-lychee.png" ],
         "name" : "Fruit Bubble Tea (Lychee)",
@@ -32,6 +35,7 @@
 	"options":[""]
       },
       "bo-fruit-bubble-tea-passion" : {
+	"oid":"P4",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passion.png" ],
         "name" : "Fruit Bubble Tea (Passion)",
@@ -42,6 +46,7 @@
 	"options":[""]
       },
       "bo-fruit-bubble-tea-passionlemon" : {
+	"oid":"P5",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passionlemon.png" ],
         "name" : "Fruit Bubble Tea (Passion & Lemon)",
@@ -52,6 +57,7 @@
 	"options":[""]
       },
       "bo-fruit-bubble-tea-honey" : {
+	"oid":"P6",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-honey.png" ],
         "name" : "Fruit Bubble Tea (Honey)",
@@ -62,6 +68,7 @@
 	"options":[""]
       },
       "bo-fruit-bubble-tea-apple" : {
+	"oid":"P7",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-apple.png" ],
         "name" : "Fruit Bubble Tea (Apple)",
@@ -72,6 +79,7 @@
 	"options":[""]
       },
       "bo-fruit-bubble-tea-lemon" : {
+	"oid":"P8",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-lemon.png" ],
         "name" : "Fruit Bubble Tea (Lemon)",
@@ -82,6 +90,7 @@
 	"options":[""]
       },
       "bo-fruit-bubble-tea-honeylemon" : {
+	"oid":"P9",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-honeylemon.png" ],
         "name" : "Fruit Bubble Tea (Honey & Lemon)",
@@ -92,6 +101,7 @@
 	"options":[""]
       },
       "bo-milk-bubble-tea-taro" : {
+	"oid":"P10",
         "category_id" : "bo-milk-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
         "name" : "Milk Bubble Tea (Taro)",
@@ -102,6 +112,7 @@
 	"options":[""]
       },
       "bo-milk-bubble-tea-coconut" : {
+	"oid":"P11",
         "category_id" : "bo-milk-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_coconut.png" ],
         "name" : "Milk Bubble Tea (Coconut)",
@@ -112,6 +123,7 @@
 	"options":[""]
       },
       "bo-milk-bubble-tea-chocolate" : {
+	"oid":"P12",
         "category_id" : "bo-milk-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/milk_bubble_tea_chocolate.png" ],
         "name" : "Milk Bubble Tea (chocolate)",
@@ -122,6 +134,7 @@
 	"options":[""]
       },
       "bo-milk-bubble-tea-coffee" : {
+	"oid":"P13",
         "category_id" : "bo-milk-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/milk_bubble_tea_coffee.png" ],
         "name" : "Milk Bubble Tea (coffee)",
@@ -132,6 +145,7 @@
 	"options":[""]
       },
       "bo-milk-bubble-tea-honey" : {
+	"oid":"P14",
         "category_id" : "bo-milk-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/bo_milk_bubble_tea_honey.jpg" ],
         "name" : "Milk Bubble Tea (honey)",
@@ -142,6 +156,7 @@
 	"options":[""]
       },
       "bo-milk-bubble-tea-honeydew" : {
+	"oid":"P15",
         "category_id" : "bo-milk-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_honeydew.png" ],
         "name" : "Milk Bubble Tea (honeydew)",
@@ -152,6 +167,7 @@
 	"options":[""]
       },
       "bo-milk-bubble-tea-jasmine" : {
+	"oid":"P16",
         "category_id" : "bo-milk-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_jasmine.png" ],
         "name" : "Jasmine Green Milk Tea",
@@ -162,6 +178,7 @@
 	"options":[""]
       },
       "bo-milk-black-tea-original" : {
+	"oid":"P17",
         "category_id" : "bo-milk-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/bo_black_milktea.png" ],
         "name" : "Original Milk Black Tea",
@@ -172,6 +189,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-kale" : {
+	"oid":"P18",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Everlasting Kale smoothie",
@@ -182,6 +200,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-supergreen" : {
+	"oid":"P19",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Super Green smoothie",
@@ -192,6 +211,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-veryberry" : {
+	"oid":"P20",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Very Berry smoothie",
@@ -202,6 +222,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-pinklady" : {
+	"oid":"P21",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Pinklady smoothie",
@@ -212,6 +233,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-pinacolada" : {
+	"oid":"P22",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Pina Colada smoothie",
@@ -222,6 +244,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-rainbow" : {
+	"oid":"P23",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Rainbow smoothie",
@@ -232,6 +255,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-sunrise" : {
+	"oid":"P24",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Tropical Sunrise smoothie",
@@ -242,6 +266,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-acai" : {
+	"oid":"P25",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Organic Acai smoothie",
@@ -252,6 +277,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-orange" : {
+	"oid":"P26",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Mighty Orange smoothie",
@@ -262,6 +288,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-smoothie-diamondmango" :{
+	"oid":"P27",
         "category_id" : "bo-fresh-fruit-smoothies",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-smoothie.png" ],
         "name" : "Diamond Mango smoothie",
@@ -272,6 +299,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-kale" : {
+	"oid":"P28",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Everlasting Kale slush",
@@ -282,6 +310,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-supergreen" : {
+	"oid":"P29",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Super Green slush",
@@ -292,6 +321,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-veryberry" : {
+	"oid":"P30",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Very Berry slush",
@@ -302,6 +332,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-pinklady" : {
+	"oid":"P31",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Pinklady slush",
@@ -312,6 +343,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-pinacolada" : {
+	"oid":"P32",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Pina Colada slush",
@@ -322,6 +354,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-rainbow" : {
+	"oid":"P33",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Rainbow slush",
@@ -332,6 +365,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-sunrise" : {
+	"oid":"P34",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Tropical Sunrise slush",
@@ -342,6 +376,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-acai" : {
+	"oid":"P35",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Organic Acai slush",
@@ -352,6 +387,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-orange" : {
+	"oid":"P36",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Mighty Orange slush",
@@ -362,6 +398,7 @@
 	"options":[""]
       },
       "bo-fresh-fruit-slush-diamondmango" :{
+	"oid":"P37",
         "category_id" : "bo-fresh-fruit-slush",
         "images" : [ "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png" ],
         "name" : "Diamond Mango slush",
@@ -374,6 +411,7 @@
     },
     "big-orange-coquitlam-mall":{
       "bo-smooth-bubble-tea-bigo" : {
+	"oid":"P38",
         "category_id" : "bo-smooth-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-apple.png" ],
         "name" : "Smooth Bubble Tea (Big-O)",

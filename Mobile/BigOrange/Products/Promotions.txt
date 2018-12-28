@@ -2,6 +2,7 @@
  "Promotions" : {
     "BigOrange":{
       "p20180001" : {
+        "oid":"F20180001",
         "thumb" : "assets/imgs/bigorange/promotions/p20180001.jpg",
         "title" : "get any 2 for only 8.99",
         "short_description":"Buy any 2 of regular size of Fruit bubble tea-peach, Diamond Mango smoothie,or any milk bubble tea, only pay $8.99",
@@ -36,6 +37,7 @@
         "valid_date":["2018-11-10","2018-12-31"]
       },
       "p20180002" : {
+        "oid":"F20180002",
         "thumb" : "assets/imgs/bigorange/promotions/p20180002.jpg",
         "title" : "Two small mango smoothies only 2.99",
         "short_description":"Buy 2 small size diamond mango fresh fruit smoothies, each only 2.99",
@@ -54,6 +56,7 @@
         "valid_date":["2018-11-10","2018-12-31"]
       },
       "p20180003" : {
+        "oid":"F20180003",
         "thumb" : "assets/imgs/bigorange/promotions/p20180003.png",
         "title" : "Morning Special with 10% off",
         "short_description":"Monday to Thursday (Except holiday) 10% off for any regular size when you order between 9:30AM and 11:30AM",
