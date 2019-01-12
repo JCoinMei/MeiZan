@@ -1,5 +1,5 @@
 {
-  "big-orange-coquitlam-mall":{
+  "BigOrange-coquitlam-mall":{
         "oid":"S1",
         "name" : "Big Orange Coquitlam Mall",
         "address" : "2929 Barnet Highway, Coquitlam, BC V3B 5R5",
@@ -14,7 +14,7 @@
         "group_id" : "BigOrange",
         "taxrate": {"GST":0.05}
       },
-      "big-orange-burnaby-metrotown":{
+      "BigOrange-burnaby-metrotown":{
         "oid":"S2",
         "name" : "Big Orange Metrotown Store",
         "address" : "4700 Kingsway, Burnaby, BC V5H 4M1",
@@ -29,7 +29,7 @@
         "group_id" : "BigOrange",
         "taxrate": {"GST":0.05}
       },
-      "big-orange-surrey-citycentral":{
+      "BigOrange-surrey-citycentral":{
         "oid":"S3",
         "name" : "Big Orange Surrey City Central Store",
         "address" : "10153 King George Blvd, Surrey, BC V3T 2W1",
@@ -44,7 +44,7 @@
         "group_id" : "BigOrange",
         "taxrate": {"GST":0.05}
       },
-	"big-orange-vancouver-bentallcentre":{
+	"BigOrange-vancouver-bentallcentre":{
         "oid":"S4",
         "name" : "Big Orange Vancouver Bentall Centre Mall Store",
         "address" : "Bentall 5, Bentall Centre Mall, 303-Tower III, 595 Burrard St, Vancouver, BC V7X 1M9",

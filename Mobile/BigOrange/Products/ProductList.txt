@@ -409,7 +409,7 @@
 	"options":[""]
       }
     },
-    "big-orange-coquitlam-mall":{
+    "BigOrange-coquitlam-mall":{
       "bo-smooth-bubble-tea-bigo" : {
 	"oid":"P38",
         "category_id" : "bo-smooth-bubble-tea",
