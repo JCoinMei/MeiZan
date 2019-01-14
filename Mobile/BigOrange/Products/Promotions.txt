@@ -39,7 +39,7 @@
       "p20180002" : {
         "oid":"F20180002",
         "thumb" : "assets/imgs/bigorange/promotions/p20180002.jpg",
-        "title" : "Two small mango smoothies only 2.99",
+        "title" : "Two small mango smoothies only 2.99 each",
         "short_description":"Buy 2 small size diamond mango fresh fruit smoothies, only 2.99 each",
         "product_count":1,
         "p1":{
