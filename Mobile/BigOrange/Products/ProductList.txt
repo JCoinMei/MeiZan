@@ -8,7 +8,7 @@
         "name" : "Fruit Bubble Tea (Peach)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with peach sryup",
+        "short_description" : "Bubble tea with peach flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png",
 	"options":[""]
       },
@@ -19,7 +19,7 @@
         "name" : "Fruit Bubble Tea (Peach & Lemon)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with mixd lemon and peach sryup",
+        "short_description" : "Bubble tea with mixd lemon and peach flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-peach.png",
 	"options":[""]
       },
@@ -30,7 +30,7 @@
         "name" : "Fruit Bubble Tea (Lychee)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with lychee sryup",
+        "short_description" : "Bubble tea with lychee flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-lychee.png",
 	"options":[""]
       },
@@ -38,10 +38,10 @@
 	"oid":"P4",
         "category_id" : "bo-fruit-bubble-tea",
         "images" : [ "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passion.png" ],
-        "name" : "Fruit Bubble Tea (Passion)",
+        "name" : "Fruit Bubble Tea (Passion Fruit)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with passion sryup",
+        "short_description" : "Bubble tea with passion fruit flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passion.png",
 	"options":[""]
       },
@@ -52,7 +52,7 @@
         "name" : "Fruit Bubble Tea (Passion & Lemon)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with mixed passion sryup and lemon sryup",
+        "short_description" : "Bubble tea with mixed passion fruit and lemon flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-passionlemon.png",
 	"options":[""]
       },
@@ -63,7 +63,7 @@
         "name" : "Fruit Bubble Tea (Honey)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with honey sryup",
+        "short_description" : "Bubble tea with honey flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-honey.png",
 	"options":[""]
       },
@@ -74,7 +74,7 @@
         "name" : "Fruit Bubble Tea (Apple)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with apple sryup",
+        "short_description" : "Bubble tea with apple flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-apple.png",
 	"options":[""]
       },
@@ -85,7 +85,7 @@
         "name" : "Fruit Bubble Tea (Lemon)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with lemon sryup",
+        "short_description" : "Bubble tea with lemon flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-lemon.png",
 	"options":[""]
       },
@@ -96,7 +96,7 @@
         "name" : "Fruit Bubble Tea (Honey & Lemon)",
         "size":["regular","small"],
         "price" : [5.49,3.99],
-        "short_description" : "Bubble tea with honey and lemon sryup",
+        "short_description" : "Bubble tea with honey and lemon flavour",
         "thumb" : "assets/imgs/bigorange/products/fresh-fruit-bubble-tea-honeylemon.png",
 	"options":[""]
       },
@@ -107,7 +107,7 @@
         "name" : "Milk Bubble Tea (Taro)",
         "size":["regular"],
         "price" : [5.49],
-        "short_description" : "Milk bubble tea with taro powder",
+        "short_description" : "Milk bubble tea with taro flavour",
         "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
 	"options":[""]
       },
@@ -118,7 +118,7 @@
         "name" : "Milk Bubble Tea (Coconut)",
         "size":["regular"],
         "price" : [5.49],
-        "short_description" : "Milk bubble tea with coconut powder",
+        "short_description" : "Milk bubble tea with coconut flavour",
         "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_coconut.png",
 	"options":[""]
       },
@@ -129,7 +129,7 @@
         "name" : "Milk Bubble Tea (chocolate)",
         "size":["regular"],
         "price" : [5.49],
-        "short_description" : "Milk bubble tea with chocolate powder",
+        "short_description" : "Milk bubble tea with chocolate flavour",
         "thumb" : "assets/imgs/bigorange/products/milk_bubble_tea_chocolate.png",
 	"options":[""]
       },
@@ -140,7 +140,7 @@
         "name" : "Milk Bubble Tea (coffee)",
         "size":["regular"],
         "price" : [5.49],
-        "short_description" : "Milk bubble tea with coffee powder",
+        "short_description" : "Milk bubble tea with coffee flavour",
         "thumb" : "assets/imgs/bigorange/products/milk_bubble_tea_coffee.png",
 	"options":[""]
       },
@@ -151,7 +151,7 @@
         "name" : "Milk Bubble Tea (honey)",
         "size":["regular"],
         "price" : [5.49],
-        "short_description" : "Milk bubble tea with honey",
+        "short_description" : "Milk bubble tea with honey flavour",
         "thumb" : "assets/imgs/bigorange/products/bo_milk_bubble_tea_honey.jpg",
 	"options":[""]
       },
@@ -162,7 +162,7 @@
         "name" : "Milk Bubble Tea (honeydew)",
         "size":["regular"],
         "price" : [5.49],
-        "short_description" : "Milk bubble tea with honeydew powder",
+        "short_description" : "Milk bubble tea with honeydew flavour",
         "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_honeydew.png",
 	"options":[""]
       },
@@ -406,6 +406,116 @@
         "price" : [5.99,4.25],
         "short_description" : "Slush with Fresh Mango, Fresh Banana",
         "thumb" : "assets/imgs/bigorange/products/bo-fresh-fruit-slush.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-taro" :{
+	"oid":"P39",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Taro Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with Taro flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-coconut" :{
+	"oid":"P40",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Coconut Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with Coconut flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-chocolate" :{
+	"oid":"P41",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Chocolate Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with Chocolate flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-mocha" :{
+	"oid":"P42",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Mocha Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with mocha flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-honeydew" :{
+	"oid":"P43",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Honeydew Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with honeydew flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-peach" :{
+	"oid":"P44",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Peach Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with peach flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-lychee" :{
+	"oid":"P45",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Lychee Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with lychee flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-passion" :{
+	"oid":"P46",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Passion Fruit Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with passion fruit flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-apple" :{
+	"oid":"P47",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Green Apple Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with green apple flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
+	"options":[""]
+      },
+      "bo-smooth-bubble-tea-coffee" :{
+	"oid":"P48",
+        "category_id" : "bo-smooth-bubble-tea",
+        "images" : [ "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png" ],
+        "name" : "Coffee Smooth",
+        "size":["regular","small"],
+        "price" : [5.99,4.25],
+        "short_description" : "Smooth with coffee flavour",
+        "thumb" : "assets/imgs/bigorange/products/bo_bubblemilktea_taro.png",
 	"options":[""]
       }
     },
