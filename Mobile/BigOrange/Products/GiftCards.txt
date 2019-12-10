@@ -1,0 +1,20 @@
+{
+  "GiftCards": {
+   "BigOrange-coquitlam-mall":{
+      "BO-R-BubbleTea10" : {
+	"oid":"BOCardCM01",
+        "name" : "R-BubbleTea-10 Gift Card",
+        "price" : 65,
+        "description" : "Get 10-Cups Regular size Big Orange Bubble Teas with pearls free",
+        "thumb" : "assets/imgs/bigorange/products/MZ-Giftcard_R10_S.png"
+      },
+      "BO-S-BubbleTea10" : {
+	"oid":"BOCardCM02",
+        "name" : "S-BubbleTea-10 Gift Card",
+        "price" : 45,
+        "description" : "Get 10-Cups small size Big Orange Bubble Teas with pearls free",
+        "thumb" : "assets/imgs/bigorange/products/MZ-Giftcard_S10_S.png"
+      }
+    }
+  }
+}
