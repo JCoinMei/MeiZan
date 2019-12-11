@@ -1,13 +1,6 @@
 {
   "GiftCards": {
    "MeiZan":{
-      "MZ-Gift-C25" : {
-	"oid":"MZG-C25",
-        "name" : "$25 Gift Card",
-        "price" : 25,
-        "description" : "When full payment with MeiZan Gift Card, you will get 10 percent discount.",
-        "thumb" : "assets/imgs/MZ-Giftcard_C25_S.png"
-      },
       "MZ-Gift-C50" : {
 	"oid":"MZG-C50",
         "name" : "$50 Gift Card",
